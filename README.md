@@ -155,7 +155,7 @@ The overlap between infrastructure gaps and socioeconomic indicators highlights 
 
 # Workflow
 
-![Workflow](Workflow/GIS Flowchart Updated.pdf)
+![Workflow](Workflow/IMG_0530.jpeg)
 
 ---
 
