@@ -159,6 +159,10 @@ The overlap between infrastructure gaps and socioeconomic indicators highlights 
 
 ---
 
+# Final Poster Results
+
+![Poster](Results/IMG_0118.jpeg)
+
 # Key Insights
 
 - Broadband inequality is strongly linked to socioeconomic factors  
