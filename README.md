@@ -140,22 +140,22 @@ The overlap between infrastructure gaps and socioeconomic indicators highlights 
 # Maps
 
 ## Broadband Gap Score
-![Gap Score](maps/broadband_gap_score_map.png)
+![Gap Score](maps/NewGAP.jpeg)
 
 ## Weighted Overlay Priority Map
-![Weighted Overlay](maps/weighted_overlay_priority_map.png)
+![Weighted Overlay](maps/IMG_0100.jpeg)
 
 ## Education Hotspot Analysis
-![Hotspot](maps/hotspot_education_map.png)
+![Hotspot](maps/HotSpot.jpeg)
 
 ## Final Priority Zones
-![Final](maps/final_priority_zones_map.png)
+![Final](maps/NewPriority.jpeg)
 
 ---
 
 # Workflow
 
-![Workflow](workflow/broadband_analysis_workflow.png)
+![Workflow](Workflow/GIS Flowchart Updated.pdf)
 
 ---
 
