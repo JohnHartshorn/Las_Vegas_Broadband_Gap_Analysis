@@ -143,13 +143,13 @@ The overlap between infrastructure gaps and socioeconomic indicators highlights 
 ![Gap Score](maps/NewGAP.jpeg)
 
 ## Weighted Overlay Priority Map
-![Weighted Overlay](maps/IMG_0100.jpeg)
+![Weighted Overlay](maps/NewPriority.jpeg)
 
 ## Education Hotspot Analysis
 ![Hotspot](maps/HotSpot.jpeg)
 
 ## Final Priority Zones
-![Final](maps/NewPriority.jpeg)
+![Final](maps/IMG_0100.jpeg)
 
 ---
 
